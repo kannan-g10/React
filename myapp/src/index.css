@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: aquamarine;
+    text-align: center;
+    background-color: black;
+}
+
+main {
+    height: 49rem;
+    text-align: center;
+    color: black;
+    margin: auto;
+    padding: 20rem;
+    background-color: aqua;
+}
+
+footer {
+    height: 2em;
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    margin-bottom: 0;
+}
+
+button {
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 3px;
+}
+
+input {
+    padding: 1rem;
+}
+
+button {
+    padding: 1rem;
+}
+
+.addForm {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    background-color: aqua;
+}
+
+ul {  
+    list-style-type: none;  
+    font-weight: bold;  
+    font-size: 20px;
+}
+
+li {
+    padding-left: 10px;
+}
